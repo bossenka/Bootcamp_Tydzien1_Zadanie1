@@ -1,0 +1,14 @@
+img {filter: blur(5px);
+}
+div:hover {
+  color: white;
+}
+div {
+  height:100px;
+  width: auto;
+  background-color: #C35C6F;
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
